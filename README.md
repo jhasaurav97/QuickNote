@@ -30,8 +30,8 @@ If you prefer to see it live, visit: https://6746054950f173a980efcbf8--dulcet-fu
 ## File Structure
 ### index.html: 
 Contains the structure and content of the application.
-### style.css: H
-andles the styling and layout of the interface.
+### style.css: 
+Handles the styling and layout of the interface.
 ### index.js: 
 Adds functionality for creating, saving, and deleting notes.
 
